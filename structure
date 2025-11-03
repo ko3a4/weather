@@ -1,0 +1,4 @@
+weather-simulator/
+├─ README.md
+├─ weather.py
+└─ .gitignore
